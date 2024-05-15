@@ -1,0 +1,32 @@
+body {
+text-align: center;
+background-color: rgb(157, 157, 255);
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.top {
+    color: white;
+}
+h1:hover {
+    color: black;
+}
+ol {
+    width: 300px;
+    display: tabel;
+    margin: 0 auto;
+}
+li {
+    text-align: left;
+}
+img {
+width: 30%;
+}
+blockquote {
+    color: white;
+    font-size: 1.7em;
+    font-family: 'Times New Roman', Times, serif;
+}
