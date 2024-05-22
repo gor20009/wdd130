@@ -1,9 +1,9 @@
-content {
+#content {
     max-width: 1600px;
     margin: 0 auto;
 }
 
-nav a {
+#nav a {
     text-align: center;
     color: #d9c2a3;
     text-decoration: none;
@@ -21,7 +21,7 @@ nav a {
     text-align: center;
 }
 
-main section {
+#main section {
     text-align: center;
 }
 
@@ -30,15 +30,15 @@ main section {
     background-color: aliceblue;
 }
 
-body {
+#body {
     background-color: aliceblue;
 }
 
-header {
+#header {
     background-color: rgba(34, 30, 17, 0.7);
 }
 
-nav a:hover {
+#nav a:hover {
     background-color: blue;
     color: #d9c2a3;
 }
@@ -58,7 +58,7 @@ nav a:hover {
     background-color: aliceblue;
 }
 
-footer {
+#footer {
     background-color: aliceblue;
     color: #ae8856;
 }
@@ -79,12 +79,12 @@ h4 {
     color: #ae8856;
 }
 
-footer a {
+#footer a {
     color: #ae8856;
     text-decoration: none;
 }
 
-footer a:hover {
+#footer a:hover {
     color: blue;
 }
 
@@ -96,7 +96,7 @@ footer a:hover {
     width: 80px;
 }
 
-#hero-img {
+#hero-image {
     width: 100%;
 }
 
