@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-color: grey;
+}
+
+.main-picture img {
+    font-size: 0;
+}
+
+.picture {
+    width: 100%;
+}
+
+.circle img {
+    width: 18%;
+    border-radius: 50%;
+    border: 8px solid black;
+    margin: 2%;
+}
+
