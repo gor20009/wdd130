@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+    margin: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    position: relative;
+    grid-auto-columns: 50%;
+    margin: -50% 0 0 5%;
+}
+
+img {
+    background-color: white;
+    width: 50%;
+}
+
+.text {
+    color: black;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    font-size: 2.2em; 
+}
+
+.texttwo {
+    color: black;
+    font-size: 1.3em;
+    grid-column: 3/3;
+    grid-row: 3/3;
+    margin: 10%;
+}
