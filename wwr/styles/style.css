@@ -196,7 +196,7 @@ nav {
     z-index: -1;
 }
 
-.card-img .mountains {
+.card-img, .mountains {
     width: 100%;
 }
 
