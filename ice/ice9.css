@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 250px;
+    margin: 0;
+    background-color: white;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+img {
+    width: 100%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.date{
+    text-align: center;
+}
+h3 {
+    padding: 10%;
+    text-align: center;
+}
+.article {
+    padding: 10%;
+    text-align: center;
+}
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    width: 250px;
+    text-align: center;
+    
+}
+.boxone, .boxtwo, .boxthree {
+    background-color: navy;
+    margin: 0 .5px;
+}
+.boxone{
+    border-bottom-left-radius: 20%;
+}
+.boxthree{
+    border-bottom-right-radius: 20%;
+}
